@@ -1,14 +1,8 @@
-# Abe Gaage Team1 Project
-## Description
-This is a project for the Abe Gaage Team1. It is a simple website that allows users
-to to streamline and enhance the day-to-day workflow of Abe's Garage.
-The application will include public-facing static pages, employee registration and authentication, customer management, order management, and private pages accessible only by authenticated employees.
+# React + Vite
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- MySql
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
